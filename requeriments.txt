@@ -1,0 +1,7 @@
+re
+pwntools
+subprocess
+sys
+termcolor
+emoji
+
